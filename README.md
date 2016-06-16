@@ -5,6 +5,6 @@
 <b>Deliverables:</b> Completed game is tested on a computer, presented to peers, and uploaded to GitHub for teacher review and grade.   
 <br>
 <b>Example screenshots of our completed Roll a Ball game.</b><br><br>
-![Alt text](https://github.com/EvelynDestiny/Unity3D_RollaBall/blob/master/screenshots/Rollaball.jpg)
+![Alt text](https://github.com/EvelynDestiny/Unity3D_RollaBall/blob/master/screenshots/rollaball.jpg)
 <br><br>
 <b>Controls:</b><br><br>Forward: up arrow <br><br>Backward: down arrow <br><br>Turn: left or right arrow <br><br>Shoot: enter<br><br>
